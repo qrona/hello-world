@@ -1,2 +1,1 @@
-hello world!
-let us begin!
+hello!
